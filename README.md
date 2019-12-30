@@ -40,6 +40,7 @@ TDengine 提供的 go 连接器使用的是 cgo 且只能在 liunx 系统下使�
 修改后执行
 
 ```bash
+pacman -S make
 pacman -S mingw-w64-x86_64-gcc
  ```
 ### 配置环境变量
