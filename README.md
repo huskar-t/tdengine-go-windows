@@ -1,3 +1,5 @@
+已提交pr此仓库作废
+
 [TDengine 官方地址：https://www.taosdata.com](https://www.taosdata.com)
 
 ## 基于TDengine-ver-1.6.4.4在windows 10下cmake+msys2编译(windows cgo 使用)
